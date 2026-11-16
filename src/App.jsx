@@ -132,7 +132,7 @@ export default function App() {
       <header className="sticky top-0 z-20 border-b border-forest/60 bg-charcoal/95 backdrop-blur">
         <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
           <a href="#top" className="font-display text-lg font-bold">
-            S<span className="text-crimson">.</span>Murugesan
+            Sakthivel<span className="text-crimson"></span>Murugesan
           </a>
           <nav className="hidden gap-6 text-sm md:flex" aria-label="Main">
             {nav.map((n) => (
